@@ -1,4 +1,4 @@
-# EmoEdit: Evoking Emotions through Image Manipulation
+# EmoEdit: Evoking Emotions through Image Manipulation (CVPR 2025)
 > [Jingyuan Yang](https://jingyuanyy.github.io/)<sup>1</sup>, Jiawei Feng<sup>1</sup>, Weibin Luo<sup>1</sup>, [Dani Lischinski](https://www.cs.huji.ac.il/~danix/)<sup>2</sup>
 , [Daniel Cohen-Or](https://danielcohenor.com/)<sup>3</sup>, [Hui Huang](https://vcc.tech/~huihuang)<sup>1</sup><sup>*</sup>  
 > <sup>1</sup>Shenzhen University  <sup>2</sup>The Hebrew University of Jerusalem <sup>3</sup>Tel Aviv University<br>
